@@ -1,0 +1,14 @@
+C:\Users\othel\random number app assignment\random number printer\bin\Debug\net8.0\random number printer.exe
+C:\Users\othel\random number app assignment\random number printer\bin\Debug\net8.0\random number printer.deps.json
+C:\Users\othel\random number app assignment\random number printer\bin\Debug\net8.0\random number printer.runtimeconfig.json
+C:\Users\othel\random number app assignment\random number printer\bin\Debug\net8.0\random number printer.dll
+C:\Users\othel\random number app assignment\random number printer\bin\Debug\net8.0\random number printer.pdb
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.AssemblyInfoInputs.cache
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.AssemblyInfo.cs
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.csproj.CoreCompileInputs.cache
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.dll
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\refint\random number printer.dll
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.pdb
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\random number printer.genruntimeconfig.cache
+C:\Users\othel\random number app assignment\random number printer\obj\Debug\net8.0\ref\random number printer.dll
